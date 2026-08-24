@@ -2,7 +2,7 @@
 
 > **Project Type:** Game Development & Workflow Efficiency Benchmark  
 > **Tech Stack:** Godot Engine 4.x, GDScript  
-> **Associated Publication:** [Link to your Medium Article / TKS Research]
+> **Associated Publication:** https://medium.com/@aaryan17.badyal/how-i-finally-built-the-game-i-once-struggled-with-b80be3d72852?sharedUserId=aaryan17.badyal 
 
 ---
 
