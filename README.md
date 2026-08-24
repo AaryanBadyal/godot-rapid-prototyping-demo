@@ -11,7 +11,7 @@ This repository contains a functional 2D game prototype developed using **Godot 
 
 ---
 
-##Key Learnings & Engineering Metrics
+## Key Learnings & Engineering Metrics
 
 * **Node-Based Scene Tree Architecture:** Analyzed how Godot's scene inheritance model simplifies state management and object coupling compared to traditional component-component models.
 * **Rapid Prototyping Velocity:** Evaluated developer feedback loops, measuring a significant reduction in compilation overhead and asset pipeline configuration times during early-stage prototyping.
