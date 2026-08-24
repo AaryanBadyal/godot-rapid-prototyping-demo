@@ -1,4 +1,5 @@
 # Godot 4 Rapid Prototyping Benchmark
+![Game Preview](godot-game-preview.png)
 
 > **Project Type:** Game Development & Workflow Efficiency Benchmark  
 > **Tech Stack:** Godot Engine 4.x, GDScript  
@@ -32,3 +33,9 @@ This repository contains a functional 2D game prototype developed using **Godot 
 2. Clone or download this repository as a `.ZIP` file and extract it.
 3. Open Godot Engine, click **Import**, and select the `project.godot` file from the extracted folder.
 4. Click **Run Project** (`F5`) in the top-right corner to play.
+
+---
+
+## Credits
+
+This project was built following the tutorial [Godot 4 Beginner Tutorial](https://youtu.be/LOhfqjmasi0?si=ipH-Oc5x42-SX3DI) by **Clear Code**.
