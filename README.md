@@ -25,3 +25,10 @@ This repository contains a functional 2D game prototype developed using **Godot 
 * Modular scene instantiation for dynamic asset spawning.
 
 ---
+
+## How to Run the Project
+
+1. Download and install [Godot Engine 4.x](https://godotengine.org/).
+2. Clone or download this repository as a `.ZIP` file and extract it.
+3. Open Godot Engine, click **Import**, and select the `project.godot` file from the extracted folder.
+4. Click **Run Project** (`F5`) in the top-right corner to play.
